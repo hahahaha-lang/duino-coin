@@ -111,7 +111,7 @@ class Settings:
                     + "revoxhere/"
                     + "duino-coin/master/Resources/"
                     + "PC_Miner_langs.json")
-    TRANSLATIONS_FILE = "/Translations.json"
+    TRANSLATIONS_FILE = "/"
     SETTINGS_FILE = "/Settings.cfg"
 
     SOC_TIMEOUT = 15
